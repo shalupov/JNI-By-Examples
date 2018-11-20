@@ -32,4 +32,10 @@
 # else
 *.class
 build/
-cmake-build-debug/
+cmake-build-*/
+
+# IDEA
+workspace.xml
+out/
+/.idea
+
